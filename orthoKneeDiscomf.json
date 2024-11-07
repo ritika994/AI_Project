@@ -1,0 +1,478 @@
+{
+  "type": {
+    "name": "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version": "3.1"
+  },
+  "value": {
+    "languages": ["en_US"],
+    "languageInfo": {
+      "spokenLanguages": ["en_US"],
+      "speakerDominantVarieties": [{
+        "languageLocale": "en_US",
+        "languageVariety": [],
+        "otherLanguageInfluence": []
+      }]
+    },
+    "domainInfo": {
+      "domainVersion": "1.0",
+      "domainList": [{
+        "domain": "Medical Conversation",
+        "topicList": ["Orthopedics"]
+      }]
+    },
+    "segments": [
+      {
+        "start": 0.000,
+        "end": 4.000,
+        "segmentId": "1",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Good morning, Mr. Smith. I see you’re here about some knee pain. Can you tell me more about what’s been going on?"
+        }
+      },
+      {
+        "start": 4.000,
+        "end": 10.000,
+        "segmentId": "2",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Good morning, Doctor. Yes, I’ve been having this sharp pain in my right knee for about three weeks now. It started after I twisted it during a run."
+        }
+      },
+      {
+        "start": 10.000,
+        "end": 14.000,
+        "segmentId": "3",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "I see. Is the pain constant, or does it come and go?"
+        }
+      },
+      {
+        "start": 14.000,
+        "end": 20.000,
+        "segmentId": "4",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "It’s not constant. It’s usually worse when I try to bend my knee or put weight on it. Sometimes it swells up, especially after physical activity."
+        }
+      },
+      {
+        "start": 20.000,
+        "end": 24.000,
+        "segmentId": "5",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Any history of knee problems in the past? Have you ever experienced something like this before?"
+        }
+      },
+      {
+        "start": 24.000,
+        "end": 30.000,
+        "segmentId": "6",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "I’ve had minor issues here and there, but nothing like this. I did sprain my ankle a few years ago, but it’s the first time I’ve had this kind of knee pain."
+        }
+      },
+      {
+        "start": 30.000,
+        "end": 36.000,
+        "segmentId": "7",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Alright. Let’s do a quick physical examination to check the stability and range of motion in your knee."
+        }
+      },
+      {
+        "start": 36.000,
+        "end": 40.000,
+        "segmentId": "8",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "I’m going to press around your knee and move it slightly. Let me know if you feel any discomfort."
+        }
+      },
+      {
+        "start": 40.000,
+        "end": 44.000,
+        "segmentId": "9",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Okay. Ouch, that hurts a bit when you press on the inside of my knee."
+        }
+      },
+      {
+        "start": 44.000,
+        "end": 50.000,
+        "segmentId": "10",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "That area seems tender. It could be a sign of a meniscus injury. We should get an MRI to confirm the diagnosis."
+        }
+      },
+      {
+        "start": 50.000,
+        "end": 54.000,
+        "segmentId": "11",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Do you think I’ll need surgery?"
+        }
+      },
+      {
+        "start": 54.000,
+        "end": 60.000,
+        "segmentId": "12",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "It’s hard to say without the MRI results. If it’s a minor tear, physical therapy might be enough. But if it’s more severe, surgery could be necessary."
+        }
+      },
+      {
+        "start": 60.000,
+        "end": 64.000,
+        "segmentId": "13",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Alright, I’ll schedule the MRI as soon as possible."
+        }
+      },
+      {
+        "start": 64.000,
+        "end": 70.000,
+        "segmentId": "14",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Good. In the meantime, I’ll prescribe some anti-inflammatory medication to help with the swelling and pain."
+        }
+      },
+      {
+        "start": 70.000,
+        "end": 74.000,
+        "segmentId": "15",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Thank you, Doctor. I appreciate it."
+        }
+      },
+      {
+        "start": 74.000,
+        "end": 80.000,
+        "segmentId": "16",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’re welcome. Let’s follow up after the MRI to discuss the next steps."
+        }
+      },
+      {
+        "start": 80.000,
+        "end": 85.000,
+        "segmentId": "17",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+              {
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Let’s follow up after the MRI to discuss the next steps."
+        }
+      },
+      {
+        "start": 80.000,
+        "end": 85.000,
+        "segmentId": "17",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"]
+      },
+      {
+        "start": 85.000,
+        "end": 90.000,
+        "segmentId": "18",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Absolutely. I’ll make sure to get it done this week. Should I avoid any physical activities until then?"
+        }
+      },
+      {
+        "start": 90.000,
+        "end": 96.000,
+        "segmentId": "19",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Yes, I’d recommend avoiding high-impact activities, especially anything that puts strain on your knee. Stick to light activities, like walking, and continue icing your knee to reduce swelling."
+        }
+      },
+      {
+        "start": 96.000,
+        "end": 100.000,
+        "segmentId": "20",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Got it. I’ll take it easy. Thanks for your advice."
+        }
+      },
+      {
+        "start": 100.000,
+        "end": 105.000,
+        "segmentId": "21",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’re welcome. Take care of yourself, and let’s touch base once we have the MRI results."
+        }
+      },
+      {
+        "start": 105.000,
+        "end": 110.000,
+        "segmentId": "22",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Will do, Doctor. See you soon."
+        }
+      },
+      {
+        "start": 110.000,
+        "end": 120.000,
+        "segmentId": "23",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "narrator",
+        "transcriptionData": {
+          "content": "The patient schedules an MRI for later in the week. After reviewing the results, the doctor and patient have a follow-up conversation to discuss the findings and potential treatment options."
+        }
+      },
+      {
+        "start": 120.000,
+        "end": 125.000,
+        "segmentId": "24",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Hello again, Mr. Smith. I’ve reviewed your MRI results, and it looks like you have a small tear in your meniscus."
+        }
+      },
+      {
+        "start": 125.000,
+        "end": 130.000,
+        "segmentId": "25",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Oh no, that doesn’t sound good. What are my options?"
+        }
+      },
+      {
+        "start": 130.000,
+        "end": 138.000,
+        "segmentId": "26",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Since the tear is relatively small, we can start with conservative treatment. This would involve physical therapy to strengthen the muscles around your knee and reduce strain on the meniscus. We can also try corticosteroid injections to reduce inflammation and pain."
+        }
+      },
+      {
+        "start": 138.000,
+        "end": 142.000,
+        "segmentId": "27",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "How effective is this treatment? Will I be able to run again?"
+        }
+      },
+      {
+        "start": 142.000,
+        "end": 150.000,
+        "segmentId": "28",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Many patients respond well to this approach, and there’s a good chance you’ll be able to return to running, but it will depend on how well your knee heals. If conservative treatment doesn’t work, we might need to consider arthroscopic surgery to repair the tear."
+        }
+      },
+      {
+        "start": 150.000,
+        "end": 154.000,
+        "segmentId": "29",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "I see. I’d prefer to avoid surgery if possible. Let’s try the physical therapy and injections first."
+        }
+      },
+      {
+        "start": 154.000,
+        "end": 160.000,
+        "segmentId": "30",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "That sounds like a good plan. I’ll refer you to a physical therapist who specializes in knee injuries, and we’ll get started with the injections. We’ll monitor your progress closely."
+        }
+      },
+      {
+        "start": 160.000,
+        "end": 165.000,
+        "segmentId": "31",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Thank you, Doctor. I’ll do whatever it takes to get back to normal."
+        }
+      },
+      {
+        "start": 165.000,
+        "end": 170.000,
+        "segmentId": "32",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "With the right approach, I’m confident we can get you there. Let’s set up a follow-up appointment in six weeks to see how you’re doing."
+        }
+      },
+      {
+        "start": 170.000,
+        "end": 175.000,
+        "segmentId": "33",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Sounds good. Thanks again, Doctor."
+        }
+      },
+      {
+        "start": 175.000,
+        "end": 180.000,
+        "segmentId": "34",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’re welcome. Take care, Mr. Smith."
+        }
+      }
+    ]
+  }
+}

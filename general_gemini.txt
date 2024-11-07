@@ -1,0 +1,38 @@
+Doctor-Patient Conversation 1:
+Speaker 1 (Patient): Ugh, this cough just won't quit. I've been hacking up a lung for a week now. And my chest feels tight, especially when I lie down.
+Speaker 2 (Spouse): Yeah, and you've been running a fever too. Remember that 101.5 last night?
+Speaker 3 (Doctor): Okay, let's take a look. Tell me more about this cough. Is it productive? What color is the phlegm?
+Speaker 1: It's pretty thick, kinda yellowish-greenish. And yeah, I'm coughing stuff up.
+Speaker 3: Any shortness of breath? Wheezing?
+Speaker 1: A little short of breath, yeah. Not really wheezing though.
+Speaker 3: Alright, let's listen to your lungs. (Sound of stethoscope) I'm hearing some rales in your lower left lobe.
+Speaker 2: Rales? What does that mean?
+Speaker 3: It's a crackling sound that indicates fluid in the lungs. Could be pneumonia. We'll need to do a chest x-ray to confirm.
+Speaker 1: Okay, whatever you think is best.
+Speaker 3: Nurse, can you please order a chest x-ray and a CBC with differential?
+Speaker 4 (Nurse): Right away, doctor.
+(Later, after the x-ray)
+Speaker 3: Okay, the x-ray confirms pneumonia in your left lung. We're going to start you on a course of antibiotics. I'm going to prescribe Azithromycin, 500mg once a day for 7 days.
+Speaker 1: Okay.
+Speaker 3: Make sure you finish the entire course of antibiotics, even if you start feeling better. It's also important to drink plenty of fluids and get some rest. We'll schedule a follow-up appointment in a week to see how you're doing. Any questions?
+Speaker 2: Should we be worried about it spreading?
+Speaker 3: Pneumonia can be contagious, so it's important to practice good hygiene, like washing your hands frequently and covering your mouth when you cough.
+Speaker 1: Okay, thank you doctor.
+Doctor-Patient Conversation 2:
+Speaker 1 (Patient): My stomach has been killing me for days. It's a sharp pain right here. (points to upper abdomen)
+Speaker 2 (Doctor): Okay, and how long has this been going on?
+Speaker 1: About three days now. It's worse after I eat.
+Speaker 2: Any nausea or vomiting?
+Speaker 1: A little nausea, but no vomiting.
+Speaker 2: Have you changed your diet recently? Any new foods?
+Speaker 1: Not really. Maybe I've been eating out more than usual.
+Speaker 2: Any heartburn?
+Speaker 1: Yeah, actually. Quite a bit.
+Speaker 2: Alright, I'm going to palpate your abdomen. Let me know if anything feels tender. (Sound of palpation)
+Speaker 1: Ouch! Right there!
+Speaker 2: Okay, that's consistent with gastritis. We'll need to rule out other possibilities though. We'll need to do some blood work and I'm also going to order an upper endoscopy.
+Speaker 1: Endoscopy? What's that?
+Speaker 2: It's a procedure where we insert a thin, flexible tube with a camera on the end down your esophagus and into your stomach. It allows us to visualize the lining of your digestive tract and look for any abnormalities.
+Speaker 1: Okay, I guess so. When can I schedule that?
+Speaker 2: The nurse will help you schedule the endoscopy. In the meantime, I'm going to prescribe you Omeprazole, 20mg twice a day, to reduce your stomach acid. We'll also need to discuss some lifestyle modifications, such as avoiding spicy foods, caffeine, and alcohol.
+Speaker 1: Okay, thank you doctor.

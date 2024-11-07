@@ -1,0 +1,44 @@
+Doctor-Patient Conversation: Crush Injury
+Speaker 1 (Paramedic): We have a 32-year-old male, extricated from a collapsed building. Crush injury to the left leg, possible pelvic involvement. He's conscious but in severe pain. BP is 90/60, pulse 120 and thready.
+Speaker 2 (Emergency Room Doctor): Okay, get him straight to Trauma Bay 1. Let's get a large-bore IV access and start fluids wide open. We need a full trauma workup – CBC, CMP, coagulation panel, type and cross, and a chest x-ray. Page orthopedics and general surgery.
+Speaker 3 (Nurse): IV access established. Fluids running. Labs and x-ray ordered. Ortho and general surgery paged.
+(Later, after initial assessment and imaging)
+Speaker 4 (Orthopedic Surgeon): Significant crush injury to the left lower extremity. X-rays show comminuted fractures of the tibia and fibula. We also have a possible compartment syndrome developing.
+Speaker 5 (General Surgeon): The FAST exam is negative for intra-abdominal bleeding, but we need to keep a close eye on him. He's showing signs of hypovolemic shock.
+Speaker 2 (ER Doctor): Okay, let's get him prepped for surgery. We need to address the compartment syndrome and stabilize those fractures. He'll likely need fasciotomies.
+Speaker 4: Agreed. We also need to monitor his urine output closely. Crush injuries can lead to rhabdomyolysis and acute kidney injury.
+Speaker 2: We'll start him on a sodium bicarbonate drip to alkalinize the urine and protect the kidneys. Nurse, please contact the OR and let them know we're coming up with a crush injury, likely for fasciotomies and fracture stabilization.
+(Post-surgery, in the ICU)
+Speaker 6 (ICU Nurse): Dr. Smith, the patient’s urine output has been declining. His creatinine is also trending upwards.
+Speaker 2 (ER Doctor, now attending in the ICU): Okay, let’s increase his IV fluids and continue monitoring his urine output and renal function closely. We may need to consider nephrology consult if his kidney function continues to deteriorate. We also need to watch for signs of infection, given the extent of his soft tissue injuries.
+
+
+Updated version of convo - 
+Extensive Doctor-Patient Conversation: Crush Injury, Extended and Noisy
+Background: A construction worker, Mr. Jones, has been pulled from the rubble of a collapsed building site. He has sustained a severe crush injury to his left leg and pelvis.
+(Scene: Busy Emergency Room, sounds of equipment beeping, hurried footsteps, and distant sirens)
+Speaker 1 (Paramedic 1): Alright, we got him out! Crush injury to the left leg, looks pretty bad. Pelvis might be involved too.
+Speaker 2 (Paramedic 2): He's conscious but in a lot of pain. BP 85/50, pulse is racing. Let's get him on oxygen and a large bore IV.
+Speaker 3 (ER Nurse 1): Trauma Bay 1 is ready! We need a full trauma team here stat!
+Speaker 1: Male, 32 years old, extricated from a building collapse. Crush injury to left leg, possible pelvic fracture. Lost consciousness briefly at the scene, now alert but agitated.
+Speaker 4 (ER Doctor): Okay, let's get him on the monitor. Start two large-bore IVs and run fluids wide open. We need a CBC, CMP, coagulation panel, type and cross, and a chest x-ray ASAP.
+Speaker 3: IVs in, fluids running. Labs and x-ray ordered. Should we call ortho and general surgery?
+Speaker 4: Yes, page them now. And get me a surgical consult as well. This looks complex.
+(Sounds of medical equipment being used, hurried conversations, and the patient moaning in pain)
+Speaker 5 (Patient, Mr. Jones): Agh...my leg...it's...it's killing me...
+Speaker 4: Mr. Jones, we're going to do everything we can to help you. Just try to stay still. We're giving you medication to help with the pain.
+Speaker 6 (ER Nurse 2): BP is stabilizing slightly, now 90/60. Pulse is still tachycardic at 115.
+(Phone ringing in the background)
+Speaker 7 (ER Nurse 3, answering phone): Trauma Bay 1, this is Nurse Johnson. Yes, we're ready for the CT scan.
+Speaker 4: Alright, let's get him up to CT as soon as those labs are back. We need to get a better look at that pelvis.
+(After CT scan)
+Speaker 8 (Radiologist, over phone): The CT confirms a comminuted fracture of the left femur, tibia, and fibula. Significant soft tissue damage as well. There's also a pelvic fracture, but no signs of internal bleeding at this time.
+Speaker 4: Okay, thanks. Let's get him back to Trauma Bay 1. We need to prep him for surgery. This is going to be a long one.
+(Sounds of surgical instruments clinking, hurried preparations for surgery)
+Speaker 9 (Orthopedic Surgeon): The damage is extensive. We'll need to stabilize the fractures with external fixation and address the compartment syndrome. Multiple fasciotomies are likely.
+Speaker 10 (General Surgeon): We'll be on standby in case there are any internal injuries that need addressing. We need to monitor his urine output closely. Crush injuries can lead to rhabdomyolysis and kidney problems.
+(Several hours later, in the ICU)
+Speaker 11 (ICU Nurse): Dr. Smith, his urine output has been minimal. His creatinine levels are rising.
+Speaker 4 (ER Doctor, now attending in ICU): Damn it. Okay, let's start him on a sodium bicarbonate drip and increase his IV fluids. We need to protect those kidneys. Call nephrology for a consult.
+Speaker 11: Right away, doctor.
+Speaker 4: And let's keep a close eye on his vital signs and pain levels. He's going to need aggressive pain management and wound care. This is going to be a long road to recovery.

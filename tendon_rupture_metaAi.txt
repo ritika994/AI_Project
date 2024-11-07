@@ -1,0 +1,20 @@
+Speaker 1 (Patient): Doc, I'm in so much pain. I was playing tennis yesterday and I felt a sudden snap in my knee. Now I can't even walk.
+Speaker 2 (Doctor): Okay, let's take a look. Can you tell me more about what happened? Did you hear a popping sound?
+Speaker 1: Yeah, it was loud. And then I felt this searing pain. I knew something was wrong.
+Speaker 2: I see. Have you had any previous injuries or issues with your knee?
+Speaker 1: No, nothing like this. I've had some minor sprains, but that's it.
+Speaker 2: Alright. Let's do a physical examination. (pause) I'm going to check your range of motion and see if there's any swelling or tenderness.
+Speaker 1: (groaning in pain) Ah, that hurts.
+Speaker 2: Sorry. It looks like you might have a tendon rupture. We'll need to do an MRI to confirm.
+Speaker 1: What does that mean? Is it serious?
+Speaker 2: It means that one of the tendons in your knee has torn. It's a serious injury, but it can be treated. We'll need to discuss your options, which may include surgery.
+Speaker 1: Surgery? I don't know if I want to do that.
+Speaker 2: Let's discuss the pros and cons. Surgery can help repair the tendon and restore function to your knee, but it also carries risks like infection and scarring.
+Speaker 1: What are the alternatives?
+Speaker 2: We can try conservative management with physical therapy and bracing, but that may not fully restore function to your knee.
+Speaker 1: I see. What's the recovery time for surgery?
+Speaker 2: Typically 6-9 months, but it can vary depending on the severity of the injury and your overall health.
+Speaker 1: That's a long time. Can I still play tennis after this?
+Speaker 2: It's possible, but we'll need to assess your knee function after recovery. You may need to modify your activities or wear a brace to support your knee.
+Speaker 1: Okay... I have a lot to think about.
+Speaker 2: Yes, take your time. We'll discuss further and answer any questions you have.

@@ -1,0 +1,468 @@
+{
+  "type": {
+    "name": "MULTI_SPEAKER_LONG_FORM_TRANSCRIPTION",
+    "version": "3.1"
+  },
+  "value": {
+    "languages": ["en_US"],
+    "languageInfo": {
+      "spokenLanguages": ["en_US"],
+      "speakerDominantVarieties": [{
+        "languageLocale": "en_US",
+        "languageVariety": [],
+        "otherLanguageInfluence": []
+      }]
+    },
+    "domainInfo": {
+      "domainVersion": "1.0",
+      "domainList": [{
+        "domain": "Medical Conversation",
+        "topicList": ["Orthopedics"]
+      }]
+    },
+    "segments": [
+      {
+        "start": 0.000,
+        "end": 4.000,
+        "segmentId": "1",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Good morning, Mr. Smith. I’m Dr. Johnson. How are you feeling today?"
+        }
+      },
+      {
+        "start": 4.000,
+        "end": 8.000,
+        "segmentId": "2",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Good morning, Doctor. I’ve been having a lot of pain in my knee lately. It’s been getting worse over the past few months."
+        }
+      },
+      {
+        "start": 8.000,
+        "end": 12.000,
+        "segmentId": "3",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "I’m sorry to hear that. Let’s start by discussing your symptoms in detail. When did you first notice the pain?"
+        }
+      },
+      {
+        "start": 12.000,
+        "end": 16.000,
+        "segmentId": "4",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "I first felt it about two years ago. At first, it was just a bit of stiffness in the mornings, but recently, the pain has become constant and more severe."
+        }
+      },
+      {
+        "start": 16.000,
+        "end": 20.000,
+        "segmentId": "5",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "I see. Has the pain affected your daily activities? For instance, do you have trouble walking, climbing stairs, or performing other tasks?"
+        }
+      },
+      {
+        "start": 20.000,
+        "end": 24.000,
+        "segmentId": "6",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Yes, definitely. I have trouble walking long distances and climbing stairs. Even getting up from a chair is painful and difficult."
+        }
+      },
+      {
+        "start": 24.000,
+        "end": 28.000,
+        "segmentId": "7",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Have you tried any treatments so far, such as physical therapy or medications?"
+        }
+      },
+      {
+        "start": 28.000,
+        "end": 32.000,
+        "segmentId": "8",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Yes, I’ve been undergoing physical therapy for a few months and taking anti-inflammatory medications like Ibuprofen, but they haven’t provided much relief."
+        }
+      },
+      {
+        "start": 32.000,
+        "end": 36.000,
+        "segmentId": "9",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Let’s review your medical history. Have you had any previous surgeries or health conditions that might be relevant?"
+        }
+      },
+      {
+        "start": 36.000,
+        "end": 40.000,
+        "segmentId": "10",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "No major surgeries, but I had a minor hernia procedure about ten years ago. Other than that, I’ve been generally healthy."
+        }
+      },
+      {
+        "start": 40.000,
+        "end": 44.000,
+        "segmentId": "11",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Thank you for that information. I’d like to perform a physical examination to assess your knee’s range of motion and check for any swelling or tenderness. Afterward, we’ll review your recent X-rays."
+        }
+      },
+      {
+        "start": 44.000,
+        "end": 48.000,
+        "segmentId": "12",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Based on your physical exam and the X-ray results, it looks like you have advanced osteoarthritis in your knee. The cartilage has worn down significantly, which is causing your pain and stiffness."
+        }
+      },
+      {
+        "start": 48.000,
+        "end": 52.000,
+        "segmentId": "13",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "What does that mean for my treatment options? Is surgery necessary?"
+        }
+      },
+      {
+        "start": 52.000,
+        "end": 56.000,
+        "segmentId": "14",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Given the severity of your condition, joint replacement, or arthroplasty, is likely the most effective treatment. This surgery involves replacing the damaged joint surfaces with artificial implants."
+        }
+      },
+      {
+        "start": 56.000,
+        "end": 60.000,
+        "segmentId": "15",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Can you explain what the surgery involves?"
+        }
+      },
+      {
+        "start": 60.000,
+        "end": 64.000,
+        "segmentId": "16",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Certainly. During the procedure, damaged bone and cartilage are removed and replaced with metal and plastic components. The surgery typically lasts a few hours and is performed under anesthesia, which could be general or regional, depending on your situation."
+        }
+      },
+      {
+        "start": 64.000,
+        "end": 68.000,
+        "segmentId": "17",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "What are the expected outcomes of the surgery?"
+        }
+      },
+      {
+        "start": 68.000,
+        "end": 72.000,
+        "segmentId": "18",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Most patients experience significant pain relief and improved mobility after recovery. The new joint should help you return to most of your regular activities with less discomfort."
+        }
+      },
+      {
+        "start": 72.000,
+        "end": 76.000,
+        "segmentId": "19",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "What does the recovery process look like?"
+        }
+      },
+      {
+        "start": 76.000,
+        "end": 80.000,
+        "segmentId": "20",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’ll spend a few days in the hospital post-surgery, and physical therapy will start almost immediately to help you regain strength and mobility. Full recovery can take several months, but many people see substantial improvements in the first few weeks."
+        }
+      },
+      {
+        "start": 80.000,
+        "end": 84.000,
+        "segmentId": "21",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "What kind of medications will I need after the surgery?"
+        }
+      },
+      {
+        "start": 84.000,
+        "end": 88.000,
+        "segmentId": "22",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’ll be prescribed pain medications such as Oxycodone or Hydrocodone for managing discomfort, and possibly blood thinners like Enoxaparin to prevent clots. Anti-inflammatory drugs, such as Celecoxib, may also be used to control swelling."
+        }
+      },
+      {
+        "start": 88.000,
+        "end": 92.000,
+        "segmentId": "23",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Are there any risks or complications associated with the surgery?"
+        }
+      },
+      {
+        "start": 92.000,
+        "end": 96.000,
+        "segmentId": "24",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "As with any surgery, there are risks such as infection, blood clots, or problems with the implant. However, these complications are rare, and we take all necessary precautions to minimize them."
+        }
+      },
+      {
+        "start": 96.000,
+        "end": 100.000,
+        "segmentId": "25",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "What should I expect in terms of follow-up care?"
+        }
+      },
+      {
+        "start": 100.000,
+        "end": 104.000,
+        "segmentId": "26",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’ll need to attend follow-up appointments to monitor your progress. We’ll track your recovery, adjust medications if necessary, and continue physical therapy to ensure optimal outcomes."
+        }
+      },
+      {
+        "start": 104.000,
+        "end": 108.000,
+        "segmentId": "27",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "I have a few more questions about the long-term outlook. Will I be able to return to all my previous activities?"
+        }
+      },
+      {
+        "start": 108.000,
+        "end": 112.000,
+        "segmentId": "28",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Most patients can return to many of their previous activities, but it’s important to follow your physical therapy regimen and avoid high-impact activities that might stress the new joint."
+        }
+      },
+      {
+        "start": 112.000,
+        "end": 116.000,
+        "segmentId": "29",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "What should I do if I experience any issues after the surgery?"
+        }
+      },
+      {
+        "start": 116.000,
+        "end": 120.000,
+        "segmentId": "30",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "Contact our office immediately if you experience unusual pain, swelling, or signs of infection, such as redness or fever. Early intervention can prevent more serious problems."
+        }
+      },
+      {
+        "start": 120.000,
+        "end": 124.000,
+        "segmentId": "31",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Thank you for the detailed information, Doctor. What’s the next step?"
+        }
+      },
+      {
+        "start": 124.000,
+        "end": 128.000,
+        "segmentId": "32",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "We’ll schedule your surgery and arrange for a pre-surgery consultation to review everything in more detail. I’ll have my assistant provide you with the details."
+        }
+      },
+      {
+        "start": 128.000,
+        "end": 132.000,
+        "segmentId": "33",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "patient1",
+        "transcriptionData": {
+          "content": "Great. I appreciate your help."
+        }
+      },
+      {
+        "start": 132.000,
+        "end": 136.000,
+        "segmentId": "34",
+        "loudnessLevel": "Normal",
+        "primaryType": "Speech",
+        "language": "en_US",
+        "segmentLanguages": ["en_US"],
+        "speakerId": "doctor1",
+        "transcriptionData": {
+          "content": "You’re welcome, Mr. Smith. We’ll take good care of you. If you have any more questions before the surgery, don’t hesitate to reach out."
+        }
+      }
+    ]
+  }
+}

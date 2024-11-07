@@ -1,0 +1,18 @@
+Speaker 1 (Patient): Doc, I'm feeling really weak and my chest hurts like crazy. I've been having trouble breathing since last night.
+Speaker 2 (Doctor): Okay, let's take a look. Can you tell me more about this chest pain? Is it a sharp pain or a dull ache?
+Speaker 1: It's like someone's sitting on my chest. And I have a fever, I think. I've been taking paracetamol, but it's not helping.
+Speaker 2: I see. Have you had any recent travel history or exposure to anyone with similar symptoms?
+Speaker 1: No, I don't think so. But I did have a cough last week.
+Speaker 2: Alright. Let's check your vitals and do a physical examination. (pause) Your blood pressure is a bit high, and your oxygen saturation is low. We'll need to do a chest X-ray and some blood work to rule out pneumonia.
+Speaker 3 (Nurse): Doctor, should we also do a COVID-19 test?
+Speaker 2: Yes, let's do that too. (to the patient) We'll also check for any signs of respiratory distress.
+Speaker 1: What does that mean?
+Speaker 2: It means we'll check if you're having trouble breathing or if your oxygen levels are low.
+Speaker 1: Okay... I'm scared.
+Speaker 2: Don't worry, we'll take good care of you. (to the nurse) Let's get an ECG and a complete blood count (CBC) as well.
+Speaker 3: Got it.
+Speaker 2: (to the patient) We'll also start you on oxygen therapy and some medication to help with your symptoms. (prescribes medication)
+Speaker 1: What's that medicine for?
+Speaker 2: It's an antibiotic to help fight off any infection. And we'll also give you some medication to help with your breathing.
+Speaker 1: Okay... thank you, doctor.
+Speaker 2: Of course. We'll monitor your condition closely and adjust your treatment plan as needed.
